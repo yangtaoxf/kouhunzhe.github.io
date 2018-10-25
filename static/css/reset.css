@@ -35,7 +35,8 @@ li{
 }
 a:focus{
   -webkit-tap-highlight-color:rgba(255,0,0,0);
-  outline:none;}
+  outline:none;
+}
 .fl{
   float: left;
 }
